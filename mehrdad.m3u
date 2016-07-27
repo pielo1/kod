@@ -12,3 +12,22 @@ http://63.237.48.28/ios/PMC/PMC.m3u8
 http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
 #EXTINF:0,TV1
 http://s1.telewebion.com:1935/devices/tv1-500k.stream/playlist.m3u8
+
+#EXTINF:0,ARD
+http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8
+#EXTINF:0,ZDF
+http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8?dw=0
+#EXTINF:0,Sat 1
+http://151.80.102.59:8000/live/5grandiptv915/67863345/352.ts
+#EXTINF:0,RTL
+http://151.80.102.59:8000/live/5grandiptv915/67863345/376.ts
+#EXTINF:0,Pro 7
+http://151.80.102.59:8000/live/5grandiptv915/67863345/361.ts
+#EXTINF:0,Vox
+http://89.163.148.31:8000/live/master99/master99/5985.ts
+#EXTINF:0,Sixx
+http://151.80.102.59:8000/live/5grandiptv915/67863345/367.ts
+#EXTINF:0,Kabel 1
+http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/734.ts
+#EXTINF:0,RTL 2
+http://151.80.102.59:8000/live/5grandiptv915/67863345/377.ts

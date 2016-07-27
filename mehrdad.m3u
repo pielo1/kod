@@ -6,5 +6,9 @@ http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 #EXTINF:0,IRIB 3
 http://63.237.48.9/ios/IRIB_TV3_2/IRIB_TV3_2.m3u8
-
-
+#EXTINF:0,PMC
+http://63.237.48.28/ios/PMC/PMC.m3u8
+#EXTINF:0,GEM
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
+#EXTINF:0,TV1
+http://s1.telewebion.com:1935/devices/tv1-500k.stream/playlist.m3u8

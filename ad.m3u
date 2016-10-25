@@ -1,161 +1,159 @@
 #EXTM3U
 
 
-#EXTINF:-1,ALARABIA
+#EXTINF:0,ALARABIA
 http://163.172.37.71:8789/live/karimos/test/304.ts
-#EXTINF:-1,NILE_CINEMA
+#EXTINF:0,NILE_CINEMA
 http://163.172.37.71:8789/live/karimos/test/60.ts
 
-#EXTINF:-1,SHARQIYA_NEWS
+#EXTINF:0,SHARQIYA_NEWS
 http://163.172.37.71:8789/live/karimos/test/487.ts
 
-#EXTINF:-1,MBC_1
+#EXTINF:0,MBC_1
 http://163.172.37.71:8789/live/karimos/test/205.ts
-#EXTINF:-1,MBC_2
+#EXTINF:0,MBC_2
 http://163.172.37.71:8789/live/karimos/test/56.ts
-#EXTINF:-1,MBC_4
+#EXTINF:0,MBC_4
 http://163.172.37.71:8789/live/karimos/test/55.ts
-#EXTINF:-1,MBC_MASR_2
+#EXTINF:0,MBC_MASR_2
 http://163.172.37.71:8789/live/karimos/test/251.ts
-#EXTINF:-1,MBC_MASR
+#EXTINF:0,MBC_MASR
 http://163.172.37.71:8789/live/karimos/test/250.ts
-#EXTINF:-1,MBC_ACTION
+#EXTINF:0,MBC_ACTION
 http://163.172.37.71:8789/live/karimos/test/54.ts
-#EXTINF:-1,MBC_MAX
+#EXTINF:0,MBC_MAX
 http://163.172.37.71:8789/live/karimos/test/52.ts
-#EXTINF:-1,MBC_Drama
+#EXTINF:0,MBC_Drama
 http://163.172.37.71:8789/live/karimos/test/207.ts
-#EXTINF:-1,MBC_BOLLYWOOD
+#EXTINF:0,MBC_BOLLYWOOD
 http://163.172.37.71:8789/live/karimos/test/53.ts
-#EXTINF:-1,MBC_PRO_1
+#EXTINF:0,MBC_PRO_1
 http://163.172.37.71:8789/live/karimos/test/252.ts
-#EXTINF:-1,MBC_PRO_2
+#EXTINF:0,MBC_PRO_2
 http://163.172.37.71:8789/live/karimos/test/253.ts
-#EXTINF:-1,MBC_PRO_3
+#EXTINF:0,MBC_PRO_3
 http://163.172.37.71:8789/live/karimos/test/254.ts
-#EXTINF:-1,MBC_PRO_SPORT_4
+#EXTINF:0,MBC_PRO_SPORT_4
 http://163.172.37.71:8789/live/karimos/test/319.ts
 
-#EXTINF:-1,ALJAZEERA_DOC
+#EXTINF:0,ALJAZEERA_DOC
 http://163.172.37.71:8789/live/karimos/test/413.ts
-#EXTINF:-1,ALJAZEERA
+#EXTINF:0,ALJAZEERA
 http://163.172.37.71:8789/live/karimos/test/415.ts
 
-#EXTINF:-1,DubaiTV
+#EXTINF:0,DubaiTV
 http://163.172.37.71:8789/live/karimos/test/445.ts
-#EXTINF:-1,DUBAI_ALOULA
+#EXTINF:0,DUBAI_ALOULA
 http://163.172.37.71:8789/live/karimos/test/46.ts
-#EXTINF:-1,DUBAI_ONE
+#EXTINF:0,DUBAI_ONE
 http://163.172.37.71:8789/live/karimos/test/43.ts
-#EXTINF:-1,SAMA_DUBAI
+#EXTINF:0,SAMA_DUBAI
 http://163.172.37.71:8789/live/karimos/test/48.ts
-#EXTINF:-1,DUBAI_NOOR
+#EXTINF:0,DUBAI_NOOR
 http://163.172.37.71:8789/live/karimos/test/37.ts
-#EXTINF:-1,DUBAI_DARAMA
+#EXTINF:0,DUBAI_DARAMA
 http://163.172.37.71:8789/live/karimos/test/45.ts
-#EXTINF:-1,DUBAI_SPORTS
+#EXTINF:0,DUBAI_SPORTS
 http://163.172.37.71:8789/live/karimos/test/609.ts
-#EXTINF:-1,DUBAI_ZAMAN
+#EXTINF:0,DUBAI_ZAMAN
 http://163.172.37.71:8789/live/karimos/test/47.ts
-#EXTINF:-1,DUBAI_RACING
+#EXTINF:0,DUBAI_RACING
 http://163.172.37.71:8789/live/karimos/test/661.ts
-#EXTINF:-1,Dubai_Racing-2
+#EXTINF:0,Dubai_Racing-2
 http://163.172.37.71:8789/live/karimos/test/662.ts
 
-#EXTINF:-1,MTV_LIBAN
+#EXTINF:0,MTV_LIBAN
 http://163.172.37.71:8789/live/karimos/test/50.ts
 
-#EXTINF:-1,LBC
+#EXTINF:0,LBC
 http://163.172.37.71:8789/live/karimos/test/721.ts
 
-#EXTINF:-1,BBC_Arab
+#EXTINF:0,BBC_Arab
 http://163.172.37.71:8789/live/karimos/test/302.ts
 
-#EXTINF:-1,Abu_Dhabi_HD
+#EXTINF:0,Abu_Dhabi_HD
 http://163.172.37.71:8789/live/karimos/test/723.ts
 
-#EXTINF:-1,ROTANA_CINEMA
+#EXTINF:0,ROTANA_CINEMA
 http://163.172.37.71:8789/live/karimos/test/230.ts
-#EXTINF:-1,ROTANA_AFLAM
+#EXTINF:0,ROTANA_AFLAM
 http://163.172.37.71:8789/live/karimos/test/231.ts
-#EXTINF:-1,ROTANA_CLASSIC
+#EXTINF:0,ROTANA_CLASSIC
 http://163.172.37.71:8789/live/karimos/test/229.ts
-#EXTINF:-1,ROTANA_MASRIYA
+#EXTINF:0,ROTANA_MASRIYA
 http://163.172.37.71:8789/live/karimos/test/58.ts
-#EXTINF:-1,ROTANA_KHALIJI
+#EXTINF:0,ROTANA_KHALIJI
 http://163.172.37.71:8789/live/karimos/test/71.ts
-#EXTINF:-1,ROTANA_MUSIC
+#EXTINF:0,ROTANA_MUSIC
 http://163.172.37.71:8789/live/karimos/test/57.ts
-#EXTINF:-1,ROTANA_CLIP
+#EXTINF:0,ROTANA_CLIP
 
-#EXTINF:-1,DW_AR
+#EXTINF:0,DW_AR
 http://163.172.37.71:8789/live/karimos/test/610.ts
 
-#EXTINF:-1,AL_MAYADEEN
+#EXTINF:0,AL_MAYADEEN
 https://www.youtube.com/embed/JQ9Yx2ibyKc?autoplay=1&feature=player_detailpage
 
-#EXTINF:-1,ALJADEED-SAT
+#EXTINF:0,ALJADEED-SAT
 http://163.172.37.71:8789/live/karimos/test/452.ts
 
-#EXTINF:-1,=====BeIN-Arabia=====
-http://163.172.37.71:8789/live/karimos/test/191.ts
-#EXTINF:-1,beINSPORTS_News_HD
+#EXTINF:0,beINSPORTS_News_HD
 http://163.172.37.71:8789/live/karimos/test/135.ts
-#EXTINF:-1,beINSPORTS
+#EXTINF:0,beINSPORTS
 http://163.172.37.71:8789/live/karimos/test/136.ts
-#EXTINF:-1,beINSPORTS-1HD
+#EXTINF:0,beINSPORTS-1HD
 http://163.172.37.71:8789/live/karimos/test/116.ts
-#EXTINF:-1,beINSPORTS-2HD
+#EXTINF:0,beINSPORTS-2HD
 http://163.172.37.71:8789/live/karimos/test/117.ts
-#EXTINF:-1,beINSPORTS-3HD
+#EXTINF:0,beINSPORTS-3HD
 http://163.172.37.71:8789/live/karimos/test/118.ts
-#EXTINF:-1,beINSPORTS-4HD
+#EXTINF:0,beINSPORTS-4HD
 http://163.172.37.71:8789/live/karimos/test/119.ts
-#EXTINF:-1,beINSPORTS-5HD
+#EXTINF:0,beINSPORTS-5HD
 http://163.172.37.71:8789/live/karimos/test/120.ts
-#EXTINF:-1,beINSPORTS-6HD
+#EXTINF:0,beINSPORTS-6HD
 http://163.172.37.71:8789/live/karimos/test/121.ts
-#EXTINF:-1,beINSPORTS-7HD
+#EXTINF:0,beINSPORTS-7HD
 http://163.172.37.71:8789/live/karimos/test/122.ts
-#EXTINF:-1,beINSPORTS-8HD
+#EXTINF:0,beINSPORTS-8HD
 http://163.172.37.71:8789/live/karimos/test/123.ts
-#EXTINF:-1,beINSPORTS-9HD
+#EXTINF:0,beINSPORTS-9HD
 http://163.172.37.71:8789/live/karimos/test/124.ts
-#EXTINF:-1,beINSPORTS-10HD
+#EXTINF:0,beINSPORTS-10HD
 http://163.172.37.71:8789/live/karimos/test/125.ts
-#EXTINF:-1,beINSPORTS-11HD
+#EXTINF:0,beINSPORTS-11HD
 http://163.172.37.71:8789/live/karimos/test/126.ts
-#EXTINF:-1,beINSPORTS-12HD
+#EXTINF:0,beINSPORTS-12HD
 http://163.172.37.71:8789/live/karimos/test/127.ts
-#EXTINF:-1,beINSPORTS-13HD
+#EXTINF:0,beINSPORTS-13HD
 http://163.172.37.71:8789/live/karimos/test/128.ts
-#EXTINF:-1,beINSPORTS-14HD
+#EXTINF:0,beINSPORTS-14HD
 http://163.172.37.71:8789/live/karimos/test/129.ts
-#EXTINF:-1,beINSPORTS-15HD
+#EXTINF:0,beINSPORTS-15HD
 http://163.172.37.71:8789/live/karimos/test/130.ts
-#EXTINF:-1,beINSPORTS-16HD
+#EXTINF:0,beINSPORTS-16HD
 http://163.172.37.71:8789/live/karimos/test/131.ts
-#EXTINF:-1,beINSPORTS-USA
+#EXTINF:0,beINSPORTS-USA
 http://163.172.37.71:8789/live/karimos/test/292.ts
-#EXTINF:-1,beINMOVIES-1HD
+#EXTINF:0,beINMOVIES-1HD
 http://163.172.37.71:8789/live/karimos/test/132.ts
-#EXTINF:-1,beINMOVIES-2HD
+#EXTINF:0,beINMOVIES-2HD
 http://163.172.37.71:8789/live/karimos/test/133.ts
-#EXTINF:-1,beINMOVIES-3HD
+#EXTINF:0,beINMOVIES-3HD
 http://163.172.37.71:8789/live/karimos/test/134.ts
-#EXTINF:-1,beINMOVIES-4HD
+#EXTINF:0,beINMOVIES-4HD
 http://163.172.37.71:8789/live/karimos/test/484.ts
 
-#EXTINF:-1,AlAan
+#EXTINF:0,AlAan
 http://dmiptv.noip.me:8000/live/alimeftah/DrXPuXPWyD/486.ts
 
-#EXTINF:-1,AR: Otv Tv Lebanon
+#EXTINF:0,AR: Otv Tv Lebanon
 http://iptvfree1.com:6969/live/3/www.iptvrestream.net/554.ts
 
-#EXTINF:-1, Aliraqiya 
+#EXTINF:0, Aliraqiya 
 http://8.21.48.26:7777/AlIraqiya/AlIraqiya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_20558638&session=4fedd142ff517173bbedc016906e4f2ce05329e78dc054bcbd90936764675a2c&hlsid=HLS_2487419 
 
-#EXTINF:-1,Al Hayat 2
+#EXTINF:0,Al Hayat 2
 http://72.88.202.45:9003
 
 
